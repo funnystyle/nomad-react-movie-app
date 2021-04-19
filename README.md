@@ -6,7 +6,7 @@
 - original source: https://github.com/nomadcoders/movie_app_2019
 - my source: https://github.com/funnystyle/nomad-react-movie-app
 
-### ReactJS로 영화 웹 서비스 만들기 (189:07)
+## ReactJS로 영화 웹 서비스 만들기 (189:07)
 
 #### #0 INTRODUCTION (12:45)
 
