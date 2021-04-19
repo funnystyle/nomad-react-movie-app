@@ -13,7 +13,7 @@
 - [x] #0.0 Introduction (01:20)
 - [x] #0.0 🚨 Read this First 🚨
 - [x] #0.1 Requirements (04:24)
-- [ ] #0.2 Theory Requirements (02:17)
+- [x] #0.2 Theory Requirements (02:17)
 - [ ] #0.3 Why React (04:44)
 
 #### #1 SETUP (14:45)
