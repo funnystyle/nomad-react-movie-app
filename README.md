@@ -7,6 +7,7 @@ React JS Fundamentals Course (2019 Update!)
 - lobby: https://nomadcoders.co/react-fundamentals/lobby
 - original source: https://github.com/nomadcoders/movie_app_2019
 - my source: https://github.com/funnystyle/nomad-react-movie-app
+- my deploy: https://funnystyle.github.io/nomad-react-movie-app
 
 ## ReactJS로 영화 웹 서비스 만들기 (189:07)
 
