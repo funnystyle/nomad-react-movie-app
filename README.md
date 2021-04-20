@@ -50,7 +50,7 @@ React JS Fundamentals Course (2019 Update!)
 
 #### #5 CONCLUSIONS (12:03)
 
-- [ ] #5.0 Deploying to Github Pages (07:37)
+- [x] #5.0 Deploying to Github Pages (07:37)
 - [ ] #5.1 Are we done? (04:26)
 
 #### #6 ROUTING BONUS (35:21)
