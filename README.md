@@ -37,7 +37,7 @@ React JS Fundamentals Course (2019 Update!)
 - [x] #3.0 Class Components and State (10:11)
 - [x] #3.1 All you need to know about State (07:55)
 - [x] #3.2 Component Life Cycle (08:07)
-- [ ] #3.3 Planning the Movie Component (05:02)
+- [x] #3.3 Planning the Movie Component (05:02)
 
 #### #4 MAKING THE MOVIE APP (41:15)
 
