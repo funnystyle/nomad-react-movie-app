@@ -56,7 +56,7 @@ React JS Fundamentals Course (2019 Update!)
 
 #### #6 ROUTING BONUS (35:21)
 
-- [ ] #6.0 Getting Ready for the Router (04:14)
+- [x] #6.0 Getting Ready for the Router (04:14)
 - [ ] #6.1 Building the Router (08:51)
 - [ ] #6.2 Building the Navigation (05:36)
 - [ ] #6.3 Sharing Props Between Routes (07:47)
