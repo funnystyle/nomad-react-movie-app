@@ -41,7 +41,7 @@ React JS Fundamentals Course (2019 Update!)
 
 #### #4 MAKING THE MOVIE APP (41:15)
 
-- [ ] #4.0 Fetching Movies from API (08:43)
+- [x] #4.0 Fetching Movies from API (08:43)
 - [ ] #4.1 Rendering the Movies (11:01)
 - [ ] #4.2 Styling the Movies (06:21)
 - [ ] #4.3 Adding Genres (06:16)
