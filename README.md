@@ -44,7 +44,7 @@ React JS Fundamentals Course (2019 Update!)
 - [x] #4.0 Fetching Movies from API (08:43)
 - [x] #4.1 Rendering the Movies (11:01)
 - [x] #4.2 Styling the Movies (06:21)
-- [ ] #4.3 Adding Genres (06:16)
+- [x] #4.3 Adding Genres (06:16)
 - [ ] #4.4 Styles Timelapse (05:31)
 - [ ] #4.5 Cutting the summary (03:23)
 
