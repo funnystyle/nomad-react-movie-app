@@ -27,7 +27,7 @@ React JS Fundamentals Course (2019 Update!)
 #### #2 JSX & PROPS (41:43)
 
 - [x] #2.0 Creating your first React Component (06:54)
-- [ ] #2.1 Reusable Components with JSX + Props (09:13)
+- [x] #2.1 Reusable Components with JSX + Props (09:13)
 - [ ] #2.2 Dynamic Component Generation (09:54)
 - [ ] #2.3 map Recap (06:51)
 - [ ] #2.4 Protection with PropTypes (08:51)
