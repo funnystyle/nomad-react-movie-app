@@ -1,4 +1,6 @@
-# nomad-react-movie-app
+# Movie App 2019
+
+React JS Fundamentals Course (2019 Update!)
 
 ## Information
 
@@ -18,7 +20,7 @@
 
 #### #1 SETUP (14:45)
 
-- [ ] #1.0 Creating your first React App (05:39)
+- [x] #1.0 Creating your first React App (05:39)
 - [ ] #1.1 Creating a Github Repository (02:36)
 - [ ] #1.2 How does React work? (06:30)
 
